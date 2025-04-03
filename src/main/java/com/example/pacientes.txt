@@ -1,0 +1,4 @@
+Juan,Gripe,C
+Maria,Fractura,A
+Pedro,Alergia,B
+Roberto,Resfriado,B

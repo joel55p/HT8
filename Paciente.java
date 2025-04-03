@@ -1,3 +1,4 @@
+package com.example;
 public class Paciente implements  Comparable<Paciente> { /*tiene que tener la interfaz Comparable  */
     private String nombre; /*nombre del paciente */
     private String enfermedad; /*info extra */
